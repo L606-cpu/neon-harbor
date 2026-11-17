@@ -2,3 +2,4 @@ out/
 tools/
 *.log
 __pycache__/
+opencode.json
